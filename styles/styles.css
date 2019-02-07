@@ -1,0 +1,23 @@
+#paragraph {
+    font-size: 40px;
+    font-family: Comic Sans;
+    color: red;
+}
+
+.font-selector {
+    font-family: Arial;
+}
+
+h2 {
+    color: blue;
+}
+.hello-world-selector {
+    color: green;
+}
+
+div {
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    border: 3px solid #8a004c;
+}
